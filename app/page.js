@@ -13,7 +13,7 @@ export default function Home() {
 
 
   return (
-    <main className="">
+    <main>
       <div className="relative ml-20 bg-blue-400 min-w-max">
         <img
           src="/imgs/passport.png"
