@@ -18,7 +18,6 @@ export default function Home() {
         <img
           src="/imgs/passport.png"
           alt="passport img"
-          className=""
           width={500}
           height={650}
         />
