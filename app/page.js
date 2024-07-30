@@ -26,7 +26,7 @@ export default function Home() {
           <img
           src="/imgs/face.jpg"
           alt="face img"
-          className="object-cover z-10 top-[26.6rem] left-[.9rem] h-[11.4rem] w-[8.4rem] bg-yellow-500/30 absolute "
+          className="object-cover z-10 top-[26.6rem] left-[.9rem] h-[11.4rem] w-[8.4rem] bg-yellow-500/30 absolute"
           />
           <input name="passportNumber" className="h-4 w-[7rem] absolute top-[24.5rem] left-[22rem] bg-yellow-300/35 pl-1 text-sm font-medium uppercase tracking-normal"></input>
           <input name="lastName" className="h-4 w-[15rem] absolute top-[25.8rem] left-[10.5rem] bg-yellow-300/35 pl-1 text-sm font-medium uppercase tracking-normal"></input>
